@@ -28,7 +28,7 @@
   /* we also have a short-hand property for setting padding , border and margin and it works clockwise. */
   /* also you can set them in a single line ;) */
 
-  /* padding: 16px 16px 16px 16px; this will set the padding clockwise on all four sides */
+  /* padding: 16px 16px 16px 16px; this will set the padding clockwise on all four sides. */
 
   padding: 16px; /* but this single value can also be set on all four sides , no need to write too much css */
   margin: 20px;
