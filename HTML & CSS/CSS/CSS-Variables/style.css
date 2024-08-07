@@ -1,0 +1,23 @@
+:root {
+  --clr-dark-blue: #6482ad;
+  --clr-light-blue: #7fa1c3;
+  --clr-slate: #e2dad6;
+  --clr-light-slate: #f5eded;
+}
+
+body {
+  background-color: var(--clr-dark-blue);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#heading {
+  color: var(--clr-light-slate);
+}
+
+.para {
+  color: var(--clr-slate);
+}
+
+a {
+  color: var(--clr-light-slate);
+}
