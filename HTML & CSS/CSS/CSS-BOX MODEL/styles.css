@@ -1,10 +1,36 @@
-.box {
-  background-color: rebeccapurple;
-  color: aliceblue;
-  width: 300px;
-  height: 200px;
+*,
+*::before,
+*::after {
+  box-sizing: border-box; /* This will set all elements on the web page according to their exact size */
 }
 
-.box h1 {
-  padding: 20px;
+* {
+  margin: 0; /* this will set margin value to whole web-page */
+  padding: 0; /* this will set margin value to whole web-page */
+}
+
+/* Remember in Box Model the Margin set space to the content externally and Padding sets space internally w.r.t the content*/
+
+.box {
+  /* . is used  to access class and # is used to access id*/
+  font-size: 2rem; /* remember rem sets the size multiplied to the root size*/
+  background-color: peachpuff;
+  font-family: Arial, Helvetica, sans-serif;
+
+  width: 200px;
+  height: 200px; /* sets a perfect box */
+
+  /* padding-top: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px; */
+
+  /* we also have a short-hand property for setting padding , border and margin and it works clockwise. */
+  /* also you can set them in a single line ;) */
+
+  /* padding: 16px 16px 16px 16px; this will set the padding clockwise on all four sides */
+
+  padding: 16px; /* but this single value can also be set on all four sides , no need to write too much css */
+  margin: 20px;
+  border: 2px solid black;
 }
