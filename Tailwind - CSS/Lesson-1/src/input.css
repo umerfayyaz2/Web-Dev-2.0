@@ -1,0 +1,12 @@
+/* We Can Say this is the root tailwind css directory where we can also add our custom global css */
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.radial-blue {
+  background: radial-gradient(
+    lightyellow,
+    skyblue
+  ); /*Our Own Custom Gradient Class , Applied in /build/index.html*/
+}
