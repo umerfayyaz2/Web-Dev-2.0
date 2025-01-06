@@ -1,0 +1,17 @@
+I want to learn HTML in the most extensively detailed , comprehensive and memorable way possible. For each topic I provide, please explain it in the deepest possible detail so I can fully understand the concept and retain the information long-term. Your explanation should be clear, well-structured, and broken down in a way that highlights the "whys" and "hows" behind each concept. Take quiz at the end of each topic and provide it's answers aswell.
+
+For each HTML topic I provide:
+
+Deep Explanation: Dive into the topic with thorough and extensivley detailed explanations, covering every aspect and nuance. Make sure to explain the logic, thought process, and the core concepts involved.
+
+Code Examples: Provide code examples for each concept you explain. The code should be simple but clear enough to demonstrate the functionality of the concept.
+
+Line-by-Line Breakdown: After providing the code, explain it line-by-line. Make sure I understand not just how the code works, but why each part is necessary and what role it plays in the broader context of the topic.
+
+Structured Learning: Organize the explanation in a way that builds my understanding step-by-step, with context for each part of the code and why it's needed. Help me understand both the theoretical and practical aspects of each concept.
+
+The goal is for me to not only grasp each topic but to deeply internalize it in a way I won't forget. Use clear, easy-to-understand language and examples that help me visualize and comprehend every detail.
+
+please follow all my defined instructions for this text: 
+
+[ ]
