@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tech Collaboration Inquiry Form</title>
+  </head>
+  <body>
+    <h1>Tech Collaboration Inquiry Form</h1>
+
+    <form id="inquiry-form" action="/submit" method="POST">
+      <!-- User Name -->
+      <label for="name">Your Name:</label>
+      <input
+        type="text"
+        id="name"
+        name="name"
+        placeholder="Enter your full name"
+        required
+        minlength="2"
+        maxlength="50"
+      />
+
+      <!-- User Email -->
+      <label for="email">Your Email:</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        placeholder="Enter your email"
+        required
+      />
+      <br />
+      <br />
+      <!-- Technical Expertise -->
+      <label for="expertise">Select Your Technical Expertise:</label>
+      <input
+        list="expertise-options"
+        id="expertise"
+        name="expertise"
+        placeholder="Choose or type"
+        required
+      />
+      <datalist id="expertise-options">
+        <option value="Web Development"></option>
+        <option value="Data Science"></option>
+        <option value="Machine Learning"></option>
+        <option value="Cybersecurity"></option>
+        <option value="Cloud Computing"></option>
+        <option value="Blockchain"></option>
+        <option value="UI/UX Design"></option>
+      </datalist>
+
+      <br /><br />
+
+      <!-- Selected Expertise Output -->
+      <label for="selected-expertise">Selected Expertise:</label>
+      <output id="selected-expertise"></output>
+      <br />
+
+      <!-- Project/Requirement Description -->
+      <label for="description">Project/Requirement Description:</label>
+      <textarea
+        id="description"
+        name="description"
+        placeholder="Describe your project or requirements here"
+        required
+        minlength="20"
+        maxlength="500"
+      ></textarea>
+      <br /><br />
+
+      <!-- Project Duration -->
+      <label for="duration">Project Duration (in months):</label>
+      <input
+        type="number"
+        id="duration"
+        name="duration"
+        placeholder="How long is the project?"
+        required
+        min="1"
+        max="24"
+      />
+      <br /><br />
+      <!-- Expected Budget -->
+      <label for="budget">Expected Budget (in USD):</label>
+      <input
+        type="number"
+        id="budget"
+        name="budget"
+        placeholder="What is the estimated budget?"
+        required
+        min="100"
+        max="1000000"
+      />
+      <br /><br />
+      <!-- Progress Bar -->
+      <label for="form-progress">Form Completion Progress:</label>
+      <progress id="form-progress" max="100" value="0"></progress>
+
+      <!-- Form Submission Button -->
+      <button type="submit">Submit Inquiry</button>
+    </form>
+  </body>
+</html>
