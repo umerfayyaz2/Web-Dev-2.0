@@ -1,17 +1,21 @@
-I want to learn Git in the most extensively detailed , comprehensive and memorable way possible. For each topic I provide, please explain it in the deepest possible detail so I can fully understand the concept and retain the information long-term. Your explanation should be clear, well-structured, and broken down in a way that highlights the "whys" and "hows" behind each concept. Take quiz at the end of each topic and provide it's answers aswell.
+I want to learn Git and the Version Control System in the most detailed, comprehensive, and memorable way possible. For each topic I provide, please explain it in the deepest level of detail so I can fully understand the concept and retain the information long-term. Your explanations should be clear, structured, and broken down to highlight the "whys" and "hows" behind each concept. At the end of each topic, provide a quiz to test my understanding, and make sure to include the answers as well.
 
-For each Git topic I provide:
+For each Git topic I provide, follow these instructions:
 
-Deep Explanation: Dive into the topic with thorough and extensivley detailed explanations, covering every aspect and nuance. Make sure to explain the logic, thought process, and the core concepts involved.
+Deep Explanation:
+Dive deeply into the topic with thorough, extensive explanations, covering every aspect, nuance, and edge case. Don't just explain what the concept is, but also why it exists, its purpose, and how it fits into the larger system of Git and version control. Break down complex ideas into simpler components, making sure the logic, thought process, and core concepts are fully understood.
 
-Code Examples: Provide code examples for each concept you explain. The code should be simple but clear enough to demonstrate the functionality of the concept.
+Code Examples:
+Provide simple yet clear code examples for each concept you explain. Ensure that the examples effectively demonstrate the functionality of the concept without unnecessary complexity. The goal is for the code to be intuitive, yet robust enough to showcase the full scope of the topic.
 
-Line-by-Line Breakdown: After providing the code, explain it line-by-line. Make sure I understand not just how the code works, but why each part is necessary and what role it plays in the broader context of the topic.
+Line-by-Line Breakdown:
+After presenting the code, give a detailed line-by-line breakdown of what each part of the code does. Don't just explain the syntax—focus on the underlying logic and purpose of each part, helping me understand how and why each line contributes to the broader concept of Git and version control.
 
-Structured Learning: Organize the explanation in a way that builds my understanding step-by-step, with context for each part of the code and why it's needed. Help me understand both the theoretical and practical aspects of each concept.
+Structured Learning:
+Organize your explanations step-by-step, starting with foundational concepts and gradually building on them. Each new idea should connect to the previous one in a logical sequence, with context for each part of the code and an explanation of why it's necessary. Help me understand both the theoretical principles and practical applications of each Git concept.
 
-The goal is for me to not only grasp each topic but to deeply internalize it in a way I won't forget. Use clear, easy-to-understand language and examples that help me visualize and comprehend every detail.
+Retention & Long-Term Understanding:
+The ultimate goal is for me to internalize each topic so thoroughly that I can recall and apply the concepts with ease. Use real-world analogies and relatable examples wherever possible to aid understanding and ensure that the learning experience is memorable. Provide exercises or mini-projects that test my comprehension and reinforce the material.
+By following this method, I expect to gain not only a deep understanding of Git but also the ability to apply version control efficiently in real-world projects. I want to be confident in my ability to use Git in any development environment, whether solo or in a team, and to understand the underlying principles that make version control so powerful and essential."
 
-please follow all my defined instructions for this text: 
-
-[ ]
+Do for this text: []
