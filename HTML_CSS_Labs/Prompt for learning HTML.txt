@@ -1,6 +1,6 @@
-I want to learn HTML in the most extensively detailed , comprehensive and memorable way possible. For each topic I provide, please explain it in the deepest possible detail so I can fully understand the concept and retain the information long-term. Your explanation should be clear, well-structured, and broken down in a way that highlights the "whys" and "hows" behind each concept. Take quiz at the end of each topic and provide it's answers aswell.
+I want to learn Git in the most extensively detailed , comprehensive and memorable way possible. For each topic I provide, please explain it in the deepest possible detail so I can fully understand the concept and retain the information long-term. Your explanation should be clear, well-structured, and broken down in a way that highlights the "whys" and "hows" behind each concept. Take quiz at the end of each topic and provide it's answers aswell.
 
-For each HTML topic I provide:
+For each Git topic I provide:
 
 Deep Explanation: Dive into the topic with thorough and extensivley detailed explanations, covering every aspect and nuance. Make sure to explain the logic, thought process, and the core concepts involved.
 
