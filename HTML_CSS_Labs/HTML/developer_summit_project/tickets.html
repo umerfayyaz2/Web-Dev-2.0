@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Book your tickets for the 2025 Tech Conference."
+    />
+    <title>Tickets | 2025 Tech Conference</title>
+  </head>
+  <body>
+    <!-- Header Section -->
+    <header>
+      <h1>2025 Tech Conference</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="tickets.html">Tickets</a></li>
+          <li><a href="sponsors.html">Sponsors</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+      <section>
+        <h2>Book Your Tickets</h2>
+        <p>Reserve your spot at the 2025 Tech Conference today!</p>
+      </section>
+
+      <section>
+        <h3>Ticket Options</h3>
+        <ul>
+          <li>General Admission: $299</li>
+          <li>Student Pass: $199 (valid ID required)</li>
+          <li>VIP Pass: $499 (includes exclusive networking dinner)</li>
+        </ul>
+      </section>
+
+      <section>
+        <h3>Fill Out the Booking Form</h3>
+        <form action="submit_ticket.html" method="post">
+          <label for="name">Full Name:</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+
+          <label for="ticket">Select Ticket Type:</label>
+          <select id="ticket" name="ticket" required>
+            <option value="general">General Admission</option>
+            <option value="student">Student Pass</option>
+            <option value="vip">VIP Pass</option>
+          </select>
+
+          <button type="submit">Book Now</button>
+        </form>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <p>&copy; 2025 Tech Conference. All Rights Reserved.</p>
+      <nav>
+        <ul>
+          <li><a href="terms.html">Terms & Conditions</a></li>
+          <li><a href="privacy.html">Privacy Policy</a></li>
+          <li><a href="https://twitter.com/TechConference2025">Twitter</a></li>
+          <li>
+            <a href="https://facebook.com/TechConference2025">Facebook</a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+</html>
