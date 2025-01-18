@@ -9,7 +9,7 @@ body {
   --search-focus-border: #3171ca;
 }
 
-/* from w3.org */
+/* Style to hide label text from w3.org */
 .hide {
   border: 0;
   clip: rect(0 0 0 0);
