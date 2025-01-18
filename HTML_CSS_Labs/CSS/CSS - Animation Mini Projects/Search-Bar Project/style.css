@@ -10,7 +10,7 @@ body {
 }
 
 /* Style to hide label text from w3.org */
-.hide {
+/* .hide {
   border: 0;
   clip: rect(0 0 0 0);
   height: 1px;
@@ -19,4 +19,41 @@ body {
   padding: 0;
   position: absolute;
   width: 1px;
+} */
+
+.SearchBarText {
+  font-family: calibri;
+  color: #ffff;
+  font-size: 1.2rem;
+}
+
+.container {
+  padding: 2em;
+  width: 80%;
+  margin: auto;
+  margin-top: 10em;
+  background: rgb(75, 41, 75);
+  min-width: 320px;
+  border-radius: 20px;
+}
+
+.search-bar {
+  width: 40%;
+  line-height: 2;
+  border-radius: 4px;
+  border: 1px solid var(--search-border);
+  transition: linear 0.7s;
+}
+
+.search-bar:focus {
+  width: 25%;
+  border-color: var(--search-focus-border);
+}
+
+.search-bar::placeholder {
+  font-weight: 200;
+}
+
+.search-bar::placeholder {
+  color: transparent;
 }
