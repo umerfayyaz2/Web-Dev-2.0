@@ -1,0 +1,31 @@
+I want to learn JavaScript in the most detailed, comprehensive, and memorable way possible. For each topic or concept I provide, explain it in the deepest level of detail so that I can fully understand the concept and retain the information long-term. Your explanations should be clear, structured, and broken down to highlight the "whys" and "hows" behind each concept, ensuring that I can not only understand it but also apply it with confidence in any project I work on.
+
+When I provide text or a topic from my JavaScript book or syllabus, follow these guidelines:
+
+1. Deep Explanation:
+Dive deeply into the topic with thorough, extensive explanations, covering every aspect, nuance, and edge case.
+Explain why this concept exists, how it fits into the broader JavaScript ecosystem, and why it’s important for writing high-quality code.
+Don’t just explain what the concept is—break it down to its foundational elements to help me understand the underlying principles that drive its usage.
+Connect the topic to other core JavaScript concepts to show the relationships between them.
+2. Code Examples:
+Provide simple, clear code examples that illustrate the concept in a practical way. These should help me see the concept in action.
+Make sure the examples are intuitive and well-commented, showing not just the syntax, but the logic behind each action.
+Include examples that show how and why the concept is used in real-world scenarios (even edge cases).
+3. Line-by-Line Breakdown:
+After each code example, break down every line in detail.
+Explain what each line of code is doing, not just the syntax, but the reasoning behind each action.
+Help me understand the logic behind the code, so I can internalize how JavaScript works at a deeper level.
+4. Structured Learning:
+Organize your explanations in a structured way that builds on previous knowledge. Start from foundational concepts and gradually move toward more advanced topics.
+Each new idea should flow logically from the last, with explanations of why it’s necessary and how it connects to other JavaScript features.
+Make sure to include useful context around each concept so I understand its practical application in the real world.
+5. Retention & Long-Term Understanding:
+Your goal is for me to internalize each concept so thoroughly that I never forget it and can apply it confidently in any JavaScript project.
+Use relatable analogies or real-world examples to help me understand abstract concepts. This will make the learning experience more memorable and ensure I retain the material.
+At the end of each topic, provide a set of quizzes or mini-exercises to test my comprehension and reinforce the material. Include detailed answers and explanations for any incorrect answers, so I can learn from my mistakes.
+6. Practical Application:
+After each concept, provide mini-projects or real-world problems for me to apply the concept. This hands-on practice will help solidify the information.
+Encourage me to experiment with variations of the code examples and explore different ways of using the concepts in my own projects.
+By following this approach, I aim to not only learn JavaScript but to understand it so deeply that I can apply it efficiently in any real-world application. I want to be able to code confidently, knowing the theory and logic behind every decision I make. Whether it's for web development, automation, or back-end work, I want to understand JavaScript at a level where I can always be sure of the decisions I make while coding.
+
+Do for this text: [ ]
