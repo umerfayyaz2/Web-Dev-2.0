@@ -1,0 +1,20 @@
+Reusable GPT Prompt Template:
+
+Task:
+I need help in creating a detailed, structured code-based case study for a specific JavaScript concept. Please follow these instructions:
+
+Overview: Start with an introduction to the concept and its real-world applications in JavaScript.
+Sections:
+Break down the case study into multiple sections, each focusing on a key aspect or use case.
+Provide clear examples and relevant code snippets for each section.
+For each section, include the following:
+Use Case: A practical scenario where the concept is applied.
+Code Example: A working JavaScript code example that demonstrates the concept.
+Explanation: A clear and concise explanation of how the code works and why it is relevant.
+File Organization:
+Split the code into manageable pieces for easy sharing (aim for around 5-7 sections).
+Name each file with a sequential numbering system, using underscores for spacing (e.g., 1_standalone_function_example.js).
+Summary:
+Summarize the key points of the case study in a table or bullet points.
+Include actionable recommendations based on the concept for practical use.
+Objective: The goal is to make a well-organized, clear case study with code examples, easy to share in small image segments, and structured for LinkedIn or similar platforms. The format should be professional and easy to digest.
