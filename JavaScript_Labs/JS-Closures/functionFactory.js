@@ -1,4 +1,3 @@
-// functionFactory.js
 function createGreeting(greeting) {
     return function(name) {
       return `${greeting}, ${name}!`;

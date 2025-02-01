@@ -1,4 +1,3 @@
-// basicClosure.js
 function outerFunction() {
     let outerVariable = "I'm from the outer function!";
   

@@ -1,4 +1,3 @@
-// privateCounter.js
 function createCounter() {
     let count = 0; // Private variable
   
