@@ -7,6 +7,6 @@ function addLogEntry(date, activities, transformed) {
 
 // Example usage
 addLogEntry("2023-10-04", ["went shopping", "avoided trees", "cooked dinner"], false);
-console.log(transformationLog); // Check the updated log
+console.log(transformationLog); // Check the updated logs
 
 module.exports = addLogEntry;
