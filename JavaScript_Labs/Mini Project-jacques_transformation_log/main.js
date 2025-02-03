@@ -7,7 +7,7 @@ const calculateTransformationPercentage = require("./transformation_percentage")
 // Add a new log entry
 addLogEntry("2023-10-05", ["went jogging", "avoided trees"], false);
 
-// Check if Jacques transformed on a specific date
+// Check if Jacque is transformed on a specific date
 console.log(didTransformOnDate("2023-10-01")); // Output: true
 
 // Calculate transformation percentage
