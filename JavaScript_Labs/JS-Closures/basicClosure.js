@@ -9,4 +9,4 @@ function outerFunction() {
   }
   
   const closureExample = outerFunction();
-  closureExample(); // Output: I'm from the outer function!
+  closureExample(); // Output => I'm from the outer function!
