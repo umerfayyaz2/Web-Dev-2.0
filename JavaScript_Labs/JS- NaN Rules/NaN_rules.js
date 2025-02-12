@@ -1,4 +1,4 @@
-// ### 1. Characteristics of NaN
+// 1. Characteristics of NaN
 
 // Type of NaN
 console.log(typeof NaN); // "number"
@@ -13,7 +13,7 @@ if (NaN) {
     console.log("This will run"); // "This will run"
 }
 
-// ### 2. When Does NaN Occur?
+//  2. When Does NaN Occur?
 
 // Invalid Arithmetic Operations
 
@@ -36,7 +36,7 @@ console.log(Number(undefined)); // NaN
 // parseInt() and parseFloat() also return NaN for non-numeric input
 console.log(parseInt("abc123")); // NaN
 
-// ### 3. How to Check for NaN
+//  3. How to Check for NaN
 
 // isNaN() checks if a value is NaN but with coercion
 console.log(isNaN("abc")); // true (coerced to NaN)
@@ -47,7 +47,7 @@ console.log(isNaN(NaN));   // true
 console.log(Number.isNaN("abc")); // false (no coercion)
 console.log(Number.isNaN(NaN));   // true
 
-// ### 4. Practical Example of NaN
+//  4. Practical Example of NaN
 
 // Detecting Invalid Input
 let userInput = "abc";
@@ -59,12 +59,12 @@ if (Number.isNaN(number)) {
   console.log("The number is:", number);
 }
 
-// ### 5. Why Does NaN Exist?
+//  5. Why Does NaN Exist?
 
 // Graceful error handling instead of crashing the program
 // Follows the IEEE 754 standard for special numeric values like NaN and Infinity
 
-// ### 6. Common NaN Edge Cases and Gotchas
+//  6. Common NaN Edge Cases and Gotchas
 
 // Concatenation vs. Arithmetic
 console.log("5" - "2"); // 3 (strings coerced to numbers)
@@ -78,7 +78,7 @@ console.log(NaN > 5);  // false
 console.log(NaN < 5);  // false
 console.log(NaN == 5); // false
 
-// ### 7. Summary
+//  7. Summary
 // - NaN stands for "Not-a-Number," but it is of type number.
 // - NaN occurs when an operation produces an invalid number.
 // - NaN is unique in that it is not equal to itself.
