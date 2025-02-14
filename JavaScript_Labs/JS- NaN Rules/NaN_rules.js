@@ -17,7 +17,7 @@ if (NaN) {
 
 // Invalid Arithmetic Operations
 
-// Non-numeric strings result in NaN
+// Non-numeric strings showing result in NaN
 console.log("abc" - 2); // NaN
 console.log("abc" * 3); // NaN
 
