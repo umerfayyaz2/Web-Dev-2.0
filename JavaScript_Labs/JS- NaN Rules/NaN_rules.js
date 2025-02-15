@@ -1,4 +1,4 @@
-// 1. Characteristics of NaN
+// 1. Characteristics of NaN - not a number
 
 // Type of NaN
 console.log(typeof NaN); // "number"
@@ -8,9 +8,9 @@ console.log(NaN === NaN); // false
 
 // Falsy Value: NaN is falsy in boolean context
 if (NaN) {
-    console.log("This won't run");
+  console.log("This won't run");
 } else {
-    console.log("This will run"); // "This will run"
+  console.log("This will run"); // "This will run"
 }
 
 //  2. When Does NaN Occur?
