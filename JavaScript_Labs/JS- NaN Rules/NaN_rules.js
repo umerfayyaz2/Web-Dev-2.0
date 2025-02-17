@@ -13,7 +13,7 @@ if (NaN) {
   console.log("This will run"); // "This will run"
 }
 
-//  2. When Does NaN Occur?
+//  2. When Does NaN Occurs?
 
 // Invalid Arithmetic Operations
 
