@@ -13,7 +13,7 @@ console.log("10" * "2"); // 20 (both strings coerced to numbers)
 
 // 2. Coercion to Boolean
 
-// Falsy Values (false, 0, -0, "", null, undefined, NaN)
+// Falsy Values (false, 0, -0, "", null, undefined,   NaN)
 if (0) {
     console.log("This won't run");
 } else {
@@ -41,4 +41,4 @@ console.log(null == undefined); // true (null and undefined are equal)
 // NaN Comparison: NaN is not equal to anything, including itself
 console.log(NaN == NaN); // false (NaN is not equal to anything, even itself)
 
-// Conclusion: Be aware of coercion rules to avoid unexpected results.
+// Conclusion: Be aware of coercion rules to avoid unexpected results and errors.
