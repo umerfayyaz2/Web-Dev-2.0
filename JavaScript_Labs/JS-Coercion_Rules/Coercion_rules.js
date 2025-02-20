@@ -27,7 +27,7 @@ if ("hello") {
 
 // 3. Common Unpredictable Cases (Gotchas)
 
-// Empty String vs. Number: "" coerced to 0
+// Empty String vs. Number: "" coerced to 0   
 console.log("" == 0); // true (empty string coerced to 0)
 
 // Array vs. String: [] coerced to "", [1] coerced to "1"
