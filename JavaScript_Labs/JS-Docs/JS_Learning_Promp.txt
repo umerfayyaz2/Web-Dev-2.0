@@ -15,6 +15,7 @@ Include examples that show how and why the concept is used in real-world scenari
 After each code example, break down every line in detail.
 Explain what each line of code is doing, not just the syntax, but the reasoning behind each action.
 Help me understand the logic behind the code, so I can internalize how JavaScript works at a deeper level.
+Also mention a JS file name for each code snippet in the response.
 4. Structured Learning:
 Organize your explanations in a structured way that builds on previous knowledge. Start from foundational concepts and gradually move toward more advanced topics.
 Each new idea should flow logically from the last, with explanations of why it’s necessary and how it connects to other JavaScript features.
