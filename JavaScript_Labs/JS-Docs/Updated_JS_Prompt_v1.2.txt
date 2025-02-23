@@ -1,0 +1,3 @@
+on the basis of the provided text , Please provide a detailed explanation of the provided text in extensively in-depth detail about the text and the concept from grass root level to extreme mastery. The details should be extremely in-depth covering each aspect of the concept in in at it's deepest core. Also provide code example/snippets to get better understanding of the concept (the code examples should not be from the provided text , use some other real-world examples) along with it's JS file name (in snake_casing).Also provide line-by-line code explanation that should tell the logical thinking and thought process behind the code. The explanation should be so in-depth that i never forget the concept ever in my life.
+
+do for this text: [ ]
