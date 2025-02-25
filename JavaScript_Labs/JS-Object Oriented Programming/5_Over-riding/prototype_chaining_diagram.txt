@@ -1,0 +1,17 @@
+Object.prototype
+    |
+    v
+toString: <function>
+...
+    |
+    v
+Array.prototype
+    |
+    v
+toString: <function> (overridden)
+    |
+    v
+numbers (instance)
+    |
+    v
+toString: <function> (own property)
