@@ -23,8 +23,8 @@ const multiply = (x, y) => x * y;
 console.log('1C:', multiply(3, 4)); // Output: 12
 
 // D. Empty Parameters
-const greet = () => console.log('1D:', "Hello, Umer!");
-greet(); // Output: Hello, Umer!
+const greet = () => console.log('1D:', "Hello, User!");
+greet(); // Output: Hello, User!
 
 
 // 📌 2. Implicit Return
